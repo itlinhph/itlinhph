@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @linkpp
+- 👋 Hi, I’m @linhph
 - 👀 I’m interested in coding, learning something new.
 - 🌱 I’m currently learning about web backend: Python, Golang.
 - 📫 How to reach me:
-  + fb: fb.com/linkpp
+  + fb: fb.com/itlinhph
   + skype: linhphanhust
 
 <!---
